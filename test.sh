@@ -2,7 +2,7 @@
 set -Eeuo pipefail
 
 DEFAULT_APP_NAME="ladug"
-DEFAULT_ROLE_NAME="uus"
+DEFAULT_ROLE_NAME="kante"
 IMAGE_TAG="${IMAGE_TAG:-latest}"
 
 TRAINING_REGION="${TRAINING_REGION:-ap-southeast-2}"
